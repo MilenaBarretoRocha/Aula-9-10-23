@@ -28,6 +28,9 @@ Após a execução do npm init, você pode instalar pacotes de terceiros usando 
 
 Em resumo, npm init é o primeiro passo ao criar um novo projeto Node.js, ajudando a configurar e organizar as informações essenciais do seu aplicativo.
 
+Extra:
+https://gabrieluizramos.com.br/entendendo-o-package-json
+
 
 ### Instale a biblioteca axios para facilitar as chamadas à API.
 
