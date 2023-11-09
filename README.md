@@ -125,4 +125,6 @@ Essas bibliotecas precisam esperar que a requisição HTTP seja concluída antes
 #### Extras: 
 
 https://www.npmjs.com/package/nodemon
+
+-Exibir dados na tela com o react 
  
