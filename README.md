@@ -120,4 +120,9 @@ Essas bibliotecas precisam esperar que a requisição HTTP seja concluída antes
 -  Vamos criar um aplicativo que obtém informações de usuários do serviço JSONPlaceholder, uma API de teste para simular operações CRUD em uma API REST. https://jsonplaceholder.typicode.com/
 
 - Você precisa criar uma função para exibir usuários no console => ` console.log('Usuários:')`
+
+
+#### Extras: 
+
+https://www.npmjs.com/package/nodemon
  
