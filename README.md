@@ -1,4 +1,3 @@
-
 - Crie um novo diretório para o seu projeto e navegue até ele no terminal.
 
 ~~~javascript
@@ -9,7 +8,6 @@ cd consumo-api-js
 ~~~
 
 - Inicie um novo projeto Node.js. Execute o seguinte comando e siga as instruções.
-
 
 ~~~javascript
 
